@@ -1,4 +1,4 @@
-# FireSport
+# FireSport Privacy Policy
 Privacy Policy
 Michal Urbánek built the FireSport app as a Free app. This SERVICE is provided by Michal Urbánek at no cost and is intended for use as is.
 
